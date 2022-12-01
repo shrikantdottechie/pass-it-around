@@ -1,7 +1,7 @@
 {
   "name": "pass-it-around",
   "version": "1.0.0",
-  "description": "",
+  "description": "Build an express application that enables users to count down the number of bottles of beer. Don't like beer?",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,5 +13,13 @@
   "dependencies": {
     "dotenv": "^16.0.3",
     "express": "^4.18.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrikantdottechie/pass-it-around.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shrikantdottechie/pass-it-around/issues"
+  },
+  "homepage": "https://github.com/shrikantdottechie/pass-it-around#readme"
 }
